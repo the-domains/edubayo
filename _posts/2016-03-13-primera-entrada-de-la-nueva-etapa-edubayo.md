@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Una nueva etapa
-datePublished: '2016-03-13T15:18:14.824Z'
-dateModified: '2016-03-13T15:18:03.227Z'
+datePublished: '2016-03-13T19:32:25.398Z'
+dateModified: '2016-03-13T15:22:24.763Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-primera-entrada-de-la-nueva-etapa-edubayo.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7edf0acedd2decdd9f85980da897817725ee5ddb.jpg)
 
-Una nueva etapa
+Una nueva etapa. Varios kilos menos después...
