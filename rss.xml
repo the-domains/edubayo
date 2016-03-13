@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[edubayo]]></title>
         <description><![CDATA[edubayo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/edubayo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 13 Mar 2016 14:42:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 13 Mar 2016 14:44:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/edubayo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e78cb0-f76a-4bbe-a7ec-b245435478ce.jpg">]]></description>
-            <link>undefinedprimera-entrada-de-la-nueva-etapa-edubayo/index.html</link>
+            <link>https://thegrid.ai/edubayo/primera-entrada-de-la-nueva-etapa-edubayo/index.html</link>
             <guid isPermaLink="false">5580568b-5396-4616-b882-12fabec9c31c</guid>
-            <pubDate>Sun, 13 Mar 2016 14:42:40 GMT</pubDate>
+            <pubDate>Sun, 13 Mar 2016 14:44:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
