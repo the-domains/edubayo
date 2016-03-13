@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Primera entrada de la nueva etapa edubayo
-datePublished: '2016-03-13T14:44:41.876Z'
-dateModified: '2016-03-13T14:43:21.901Z'
+datePublished: '2016-03-13T14:53:03.191Z'
+dateModified: '2016-03-13T14:45:00.387Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-13-primera-entrada-de-la-nueva-etapa-edubayo.md
